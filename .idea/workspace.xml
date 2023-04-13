@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d6198a5-ed17-4ce0-ac47-72af2575b3ce" name="Default Changelist" comment="Added causal_model.ipynb">
-      <change beforePath="$PROJECT_DIR$/src/causal_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/causal_model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/baseline_model.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/baseline_model.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/description_model.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/description_model.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/description_transformer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/description_transformer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extract_json.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/extract_json.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681327578981</updated>
       <workItem from="1681327583387" duration="11188000" />
-      <workItem from="1681342883972" duration="5143000" />
+      <workItem from="1681342883972" duration="5144000" />
     </task>
     <task id="LOCAL-00001" summary="Added causal_model.ipynb">
       <created>1681334867326</created>
