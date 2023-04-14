@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d6198a5-ed17-4ce0-ac47-72af2575b3ce" name="Default Changelist" comment="Added causal_model.ipynb">
-      <change beforePath="$PROJECT_DIR$/figures/baseline_model.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/baseline_model.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/description_model.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/description_model.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/description_transformer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/description_transformer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extract_json.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/extract_json.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/causal_model_copy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/causal_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/causal_model.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\johnz\OneDrive - University of Toronto\3rd Year Winter\ECE324\Final Project\hotel_price_prediction\src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,6 +49,9 @@
       <updated>1681327578981</updated>
       <workItem from="1681327583387" duration="11188000" />
       <workItem from="1681342883972" duration="5144000" />
+      <workItem from="1681409872094" duration="1341000" />
+      <workItem from="1681413077963" duration="2838000" />
+      <workItem from="1681420243514" duration="6485000" />
     </task>
     <task id="LOCAL-00001" summary="Added causal_model.ipynb">
       <created>1681334867326</created>
