@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ECE368" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -49,7 +49,7 @@
       <workItem from="1681342883972" duration="5144000" />
       <workItem from="1681409872094" duration="1341000" />
       <workItem from="1681413077963" duration="2838000" />
-      <workItem from="1681420243514" duration="7077000" />
+      <workItem from="1681420243514" duration="7128000" />
     </task>
     <task id="LOCAL-00001" summary="Added causal_model.ipynb">
       <created>1681334867326</created>
