@@ -80,7 +80,7 @@ Required packages
    ```
 2. Install python packages
    ```sh
-  pip install torch torchvision torchaudio transformers datasets pandas numpy matplotlib seaborn scikit-learn
+   pip install torch torchvision torchaudio transformers datasets pandas numpy matplotlib seaborn scikit-learn
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
