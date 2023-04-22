@@ -42,20 +42,18 @@ Our Hotel Price Prediction project aims to predict the price of hotels given a l
 In addition to the price prediction model, we explored training a causal model to learn the latent variable "quality", which is the instrinsic value of a hotel detached from everything else. We explored using an autoencoder-like architecture, and analyzed different approaches of solving the problem of extracting a latent quality variable which is not directly expressed by any of the features in the data found on hotel listings.
 
 
-Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Tools and Technologies
 
-* [![PyTorch][pytorch]](https://pytorch.org/)
-* [![Transformers][huggingface]](https://huggingface.co/docs/transformers/index)
-* [![Apify][apify.com]](https://apify.com/)
-* [![scikit-learn][scikit-learn]](https://scikit-learn.org/stable)
-* [![pandas][pandas]](https://pandas.pydata.org/)
-* [![NumPy][numpy]](https://numpy.org/)
-* [![matplotlib][matplotlib]](https://matplotlib.org/)
-* [![seaborn][seaborn]](https://seaborn.pydata.org/)
+* [PyTorch](https://pytorch.org/)
+* [Transformers](https://huggingface.co/docs/transformers/index)
+* [apify.com](https://apify.com/)
+* [scikit-learn](https://scikit-learn.org/stable)
+* [pandas](https://pandas.pydata.org/)
+* [numpy](https://numpy.org/)
+* [matplotlib](https://matplotlib.org/)
+* [seaborn](https://seaborn.pydata.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,7 +84,6 @@ Required packages
 
 
 
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 [causal_model.ipynb](https://github.com/john-zhang-uoft/hotel_price_prediction/blob/main/src/causal_model.ipynb) is the training for the quality encoding model.
